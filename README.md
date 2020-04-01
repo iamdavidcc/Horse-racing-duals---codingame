@@ -1,2 +1,8 @@
-# Horse-racing-duals---codingame
-An small example that show how to solve this problem
+# Horse-racing-duals - codingame
+
+
+
+Here you find a solution for this little problem
+
+
+Improvements are welcome!
